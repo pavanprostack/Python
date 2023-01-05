@@ -14,4 +14,4 @@ print(size)   # {0, 1, 2, 3, 4, 5, 'k', 10, 'y', 20, 30, 50, 60, 70, 'pavan', 'l
 
 size.update(100)
 
-print(size)
+print(size)    # TypeError: 'int' object is not iterable

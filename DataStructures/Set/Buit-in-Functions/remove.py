@@ -8,4 +8,4 @@ size.remove(12)
 print(size)
 
 size.remove(45)
-print(size)
+print(size)      # KeyError: 45
