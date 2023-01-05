@@ -6,6 +6,6 @@ a=[23,45,67,89]
 
 a.pop(3)
 
-a.pop(7)
+# a.pop(7)  IndexError: pop index out of range
 
 print(a)

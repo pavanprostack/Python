@@ -1,5 +1,5 @@
 
-# remove() it removes element from the list based on specified element name.
+# remove()  ==> it removes element from the list based on specified element name.
 
 a=[12,23,34,56]
 

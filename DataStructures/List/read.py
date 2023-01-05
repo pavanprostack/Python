@@ -1,5 +1,5 @@
 
-# we can list
+# we can read list using indexing concept, for, while loops.
 
 l1 = [10,20,30,40]
 
