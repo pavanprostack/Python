@@ -1,4 +1,5 @@
 
+# default arguments.
 
 def add(a, b=20):
     sum=a+b
