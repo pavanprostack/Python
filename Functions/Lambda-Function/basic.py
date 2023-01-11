@@ -1,8 +1,8 @@
 
-# Lambda
+# Lambda Function / Anonymous Function
 # if you want to create function for instance use lambda function is best.
 
-# Syntax : lambda parameters : expressions
+# Syntax : variableName = lambda parameters : expressions
 
 # Named function
 # 1.

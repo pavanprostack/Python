@@ -2,7 +2,7 @@
 # Map() method.
 # Syntax : map( function, sequence)
 
-# 1. WAP increment with 1 using map method.
+# 1. WAP increment with 1 using map() method.
 data=[50,60,70,80,90]
 
 def addOne(n):
@@ -16,7 +16,7 @@ print(new_Data)
 
 print("**********")
 
-# 2. WAP increment with 2 using map method.
+# 2. WAP increment with 2 using map() method.
 price=[10,20,30,40,50]
 
 new_Price = []
@@ -32,7 +32,7 @@ print(new_Price)
 print("**********")
 
 
-# 3.
+# 3. incrementing without map() method
 items=[23,33,43,53,63]
 new_Items=[]
 
@@ -41,6 +41,5 @@ for item in items:
 
 print(new_Items)
 
-print(items)
-print(new_Items)
+
 

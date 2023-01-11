@@ -10,7 +10,7 @@ def maxValue():
     else:
         return "b is bigger"
     
-result = maxValue() 
+result = maxValue()  
 print(result)
 
 
@@ -19,7 +19,7 @@ print(result)
 c=eval(input("Enter C value : "))
 d=eval(input("Enter D value : "))
 
-bigValue = lambda : c if c>d else d
+bigValue = lambda c, d : c if c>d else d
 
-r1=bigValue() # here we need to give Arguments.
+r1=bigValue(c,d) # here we need to give Arguments.
 print(r1)
